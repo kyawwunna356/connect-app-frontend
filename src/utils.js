@@ -1,0 +1,1 @@
+export const SERVER_URL = 'https://connect-app-api-xck1.onrender.com'
